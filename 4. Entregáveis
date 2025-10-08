@@ -1,0 +1,6 @@
+ API Escolhida
+Escolhi a The MealDB(API de Receitas) porque ela é gratuita, não precisa de chave e oferece dados ricos, com a criação da tela de detalhes mais completa.
+2. Estrutura Simples do App - O aplicativo segue uma estrutura de duas telas, conectadas pelo React Navigation:
+Tela de Busca (Consulta): É a tela inicial, onde você pode pesquisar o nome de uma receita e ver os resultados em uma lista.
+Tela de Detalhes: É aberta ao clicar em uma receita. Ela mostra todas as informações daquele item (ingredientes, instruções). Usamos o ScrollView nela para garantir que todas as instruções longas sejam visíveis.
+3.O maior desafio foi garantir que a tela de detalhes tivesse todas as informações.
